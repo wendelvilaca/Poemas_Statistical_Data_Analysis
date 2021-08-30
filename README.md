@@ -1,9 +1,9 @@
 # Poems Statistical Data Analysis
 
-In a fictitious scenario where a company that has a website specialized in poems, wants to carry out analyzes on the poems written by great Brazilian writers and the views on this website. Dataset contains 15,543 poems by the most renowned Brazilian authors. To meet this demand, the following steps were taken to perform a descriptive statistical analysis of this database to generate insights.
+Em um cenário fictício em que uma empresa que possui um Website especializado em poemas, deseja realizar análises sobre os poemas escritos por grandes escritores brasileiros e as visualizações neste WebSite. Dataset contém 15.543 poemas dos mais renomados autores brasileiros. Para atender a essa deamnda, foram adotados os seguintes passos para realizar uma análise estatística descritiva desta base para gerar insights.
 
 Feature engineering - "Poema_6.2.ipynb"
-Statistical and descriptive analysis of the database, behavior of these views, concentration of views, grouping of poems, patterns in the most viewed and patterns by author. Analysis of useful information for creating dashboards for administrators, including possible filters.
+Análise estatística e descritiva da base de dados, comportamento dessas visualizações, concentração das visualizações, agrupamento dos poemas, padrões nos mais visualizados e padrões por autor. Análises de informações úteis para criação de dashboards para os administradores des , incluindo os possíveis filtros.
 
-Storage of after feature engineering - "BD_Poema 3.5.ipynb"
-Database modeling, creation, insertion of data read in SQLite Python database. Appropriate modeling for API query.
+Armazenamento dos após feature engineering - "BD_Poema 3.5.ipynb"
+Realizado modelagem de banco, criação, inserção os dados lidos no banco SQLite Python. Modelagem adequada para consulta por API.
